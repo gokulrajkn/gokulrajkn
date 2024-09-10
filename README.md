@@ -1,4 +1,4 @@
-### Zealous senior software engineer with 7+ years of expertise in Java, Spring Boot, Micro service and React. 
+### Software engineer with 7+ years of expertise in Java, Spring Boot, Micro service and React. 
 
 ### Proven track record in delivering innovative SaaS products across diverse industries, including retail, logistics, insurance, and airline passenger service. 
 
