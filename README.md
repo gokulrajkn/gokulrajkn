@@ -1,7 +1,20 @@
-### Software engineer with 7+ years of expertise in Java, Spring Boot, Microservices and React. 
+# Hi there! 👋
 
-### Proven track record in delivering innovative SaaS products across diverse industries, including retail, logistics, insurance, and airline passenger service. 
+I'm a passionate software engineer with a focus on building scalable and efficient applications. I specialize in Java, Spring Boot, Microservices, and React. 
 
-### Let's connect and collaborate on creating exceptional software solutions.
+**Check out some of my latest projects:**
 
-### kngokulrajkn@gmail.com
+* **[Http Streaming]:** [Spring boot based application to demonstrate the use case of http streaming]
+
+**Skills:**
+* Java
+* Spring Boot
+* Microservices
+* React
+* AWS
+
+**Let's connect!** Feel free to reach out for collaborations, discussions, or feedback. kngokulrajkn@gmail.com
+
+**You can find more of my work on my blog:** [https://medium.com/@gokulrajnandakumar]
+
+**Checkout my Youtube chanel:** [https://www.youtube.com/@gokulrajnandakumar]
