@@ -4,7 +4,7 @@ I'm a passionate software engineer with a focus on building scalable and efficie
 
 **Check out some of my latest projects:**
 
-* **[Http Streaming]:** [Spring boot based application to demonstrate the use case of http streaming]
+* **Http Streaming:** https://github.com/gokulrajkn/httpstreaming
 
 **Skills:**
 * Java
@@ -15,6 +15,6 @@ I'm a passionate software engineer with a focus on building scalable and efficie
 
 **Let's connect!** Feel free to reach out for collaborations, discussions, or feedback. kngokulrajkn@gmail.com
 
-**You can find more of my work on my blog:** [https://medium.com/@gokulrajnandakumar]
+**You can find more of my work on my blog:** https://medium.com/@gokulrajnandakumar
 
-**Checkout my Youtube chanel:** [https://www.youtube.com/@gokulrajnandakumar]
+**Checkout my Youtube chanel:** https://www.youtube.com/@gokulrajnandakumar
