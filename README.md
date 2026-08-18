@@ -2,10 +2,6 @@
 
 I'm a passionate software engineer with a focus on building scalable and efficient applications. I specialize in Java, Spring Boot, Microservices, and React. 
 
-**Check out some of my latest projects:**
-
-* **Http Streaming:** https://github.com/gokulrajkn/httpstreaming
-
 **Skills:**
 * Java
 * Spring Boot
